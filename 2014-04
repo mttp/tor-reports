@@ -1,0 +1,22 @@
+Here's what I did for Tor in April 2014:
+
+* Resolved 326 help desk tickets.
+* Modified the FAQ to more clearly discourage VPN use (#11398).
+* Removed a broken link from the FAQ (#11572).
+* Updated the SSL fingerprints listed on the FAQ (#11441).
+* Updated the project page with the latest version of the Torbirdy logo
+(#11546).
+* Removed references to obfs2 from the obfsproxy bridge deployment
+instructions (#11160).
+* Contributed to the 40th, 41st, 42nd, and 43rd issues of Tor Weekly News.
+* Created a first draft of the Tor Browser User Manual, which will
+eventually be shipped with Tor Browser (#11669). I've submitted new
+strings for the manual for review (#11652).
+* Created 5 new articles for use on the Tor help desk:
+  "Get your own bridges."
+  "Set Country"
+  "Link to warning page"
+  "Just connect"
+  "Can't set HTTP or SOCKS proxy."
+
+

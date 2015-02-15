@@ -1,0 +1,68 @@
+Here's what Matt P. did in December 2014
+----------------------------------------
+
+I did some Tor advocacy at the Chaos Communications Congress in Hamburg.
+
+I contributed to the 74th, 75th, and 76th issues of Tor Weekly News.
+
+I updated all gitweb links on the website to use cgit format(#14005).
+
+I made two contributions to check that have now been pulled in:
+https://github.com/arlolra/check/pull/26
+https://github.com/arlolra/check/pull/25
+
+I resolved 82 help desk tickets, concerning these topics:
+[05] - [WARN] Proxy Client: unable to connect to XXX.XXX.XX.XX:31493 ("TTL
+       expired") OR ("server rejected connection")
+[03] - "Unable to connect"
+[03] - "A copy of Firefox is already open."
+[02] - Something Went Wrong! Tor is not working in this browser.
+[02] - Requesting relay information failed (missing pluggable transport).
+[02] - My bridges no longer work
+[02] - Is email I send using Tor anonymous?
+[02] - Empty email
+[01] - Why does bridges.torproject.org show up in a foreign language?
+[01] - Where can I find specs for DNS2SOCKS?
+[01] - When I install Tor Browser as Administrator I can only run it as
+       Administrator and no other account.
+[01] - What type of bridges should I use if I want to edit Wikipedia?
+[01] - [WARN] Problem bootstrapping. Stuck at 10%: Finishing handshake with
+       directory server. (Unexpected identity in router certificate;
+IDENTITY;
+       count 14; recommendation warn)
+[01] - [Warning] Could not bind to 127.0.0.1:9050: Address already in use
+       [WSAEADDRINUSE ]. Is Tor already running?
+[01] - "video format or MIME type is not supported"
+[01] - Tor fails when I set ExitNode in my torrc.
+[01] - The Windows Tor bundles are not up to date.
+[01] - The server rejected the handshake because the client downgraded to a
+       lower TLS version than the server supports. (Error code:
+       ssl_error_inappropriate_fallback_error)
+[01] - Now that I've chowned Tor Browser as root, it won't start.
+[01] - None of the bridge types circumvent a strict firewall.
+[01] - My Tor/Vidalia/Polipo bundle keeps crashing with Firefox.
+[01] - My company is looking for anonymous internet browsing on a few
+devices
+       simultaneously
+[01] - My bookmarks are missing after I upgrade Tor Browser.
+[01] - Is Tor still safe given the attack by Lizard Patrol?
+[01] - Is the blog message about an attack on Tor related to the Sony hack?
+[01] - I heard the FBI uses metasploit to exploit Tor users.
+[01] - If I run apt-get install tor am I an exit relay?
+[01] - I downloaded Tor Browser and got malware
+[01] - I clicked the link to Download Tor Browser Update... now what?
+[01] - How to start Tor Browser in Kali Linux
+[01] - How do I enable Javascript?
+[01] - How does Tor work.
+[01] - How can I set up a relay from my house.
+[01] - How can I run Tor on a raspberry pi?
+[01] - How can I get a Tor sticker?
+[01] - Having trouble verifying the Tor Browser signature.
+[01] - Google reports suspicious activity on this account.
+[01] - Establishing an encrypted directory connection failed (done).
+[01] - "Doesn't work"
+[01] - Can't boot Tails on a Mac
+[01] - Can I configure Tor Browser to use a proxy IP and port?
+[01] - Can I be deanonymized if my Tor connection fails suddenly, the way I
+       can with a VPN?
+[01] - All my files have been encrypted by ransomware

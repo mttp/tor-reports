@@ -1,0 +1,39 @@
+May 2014 Status Report for Matt Pagan
+=====================================
+
+Here's what Matt did for Tor in May 2014:
+
+Resolved 335 help desk tickets.
+Attended the weekly Tor Browser development meetings on IRC.
+Contributed to the 44th, 45th, 46th, and 48th issues of Tor Weekly News.
+
+Website work:
+ * Summarized the current iOS situation. (#11620)
+ * Removed section linking to non-existent betas (#11779)
+ * Added links to Turkish bundles. (#11730)
+ * Added Korean and Turkish to drop down menus. (#11756)
+ * Cleaned up duplicate paragraph on TBB project page.
+ * Updated the FAQ on our software licenses.
+ * Removed an outdated FAQ about Vidalia. (#10990)
+ * Moved verification instructions from the FAQ to verifying-signatures
+page. (#11170)
+ * Removed 3 FAQs that have nothing to do with the current Tor. (#10990)
+ * Added Fedora instructions to the obfsproxy page.
+ * Introduced the tor-project IRC channel.
+ * Encourage Sophos users to contact Sophos support.
+ * Sophos FAQ should be more precise.
+ * Why are Tor packages useful?
+ * Torbutton no longer asks to redirect you away from Google.
+ * Windows builds are for 32 and 64 bit. (#12159)
+
+Tor Browser User Manual progress:
+ * Added a Known Issues page.
+ * Added a note about system clock and timezone.
+ * Tried to reach a conclusion about the mode of presentation
+   for the manual. Consensus has not yet been reached.
+
+Feedback on any of these items is welcome.
+
+-- 
+Matt Pagan
+PGP: 0xE9284418E360583C

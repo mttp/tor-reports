@@ -1,0 +1,58 @@
+Matt's March 2013
+
+Hello, list readers. My name is Matt Pagan--I am one of
+
+the new English language support assistants. I started
+
+March 22, 2013.
+
+
+Here's what I did in March:
+
+ - Oriented myself with the RT ticketing system.
+
+ - Resolved 39 tickets from the English language help
+
+queue.
+
+ - Submitted one bug report to trac (#8600).
+
+ - Improved my competency with GPG.
+
+
+Notes on various help desk tickets:
+
+ - The Pluggable Transport Bundle appears to still be
+
+working in Iran (#8708). However, some users appear to
+
+be confused on how to get it. I noted that it is still
+
+called Obfsproxy on our home page. Will this change?
+
+ - Two users threatened to sue us. One person believed
+
+that the Tor Project, Mozilla, and HP were conspiring to
+
+lie to him about what programs he had running on his
+
+computer (#8649). Another person believed that Tor had
+
+been used to hack into his bank account, though no money
+
+had actually been stolen (#8773).
+
+ - One user asked for assistance accessing Silkroad.
+
+This was of course denied. (#8736)
+
+
+Things I plan to do in April:
+
+ - Set up a legitimate IRC account instead of continuing
+
+to use the randomly generated ones from Tails.
+
+ - Improve my familiarity with the Orbot documentation.
+
+ - Read some more research papers on Tor's anonymity.

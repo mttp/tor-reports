@@ -1,0 +1,58 @@
+Things I did in March
+---------------------
+
+* I resolved 417 help desk tickets. Here's the response I give out most
+frequently:
+
+"""
+First you should try deleting your entire Tor Browser folder, then
+download and install the Tor Browser again.
+https://www.torproject.org/download/download-easy.html.en
+
+Make sure your system clock is accurate.
+
+If that does not work, try disabling your firewall and then run Tor
+Browser. If that works, add an exception for Tor in your firewall. The
+same thing for your anti-virus program. Try disabling your anti-virus
+program(s) and then run Tor Browser. If that works, try making an
+exception for Tor in your anti-virus program.
+"""
+
+* I created 3 new articles for use on the help desk:
+
+  ^ "Tor-related error window from browser"
+  ^ "Use FTE or flashproxy in 3.6 beta"
+  ^ "I want to volunteer"
+
+* I worked a little bit on a stem/wxPython based Tor controller. I've
+stopped working on this for now based on feedback I got [0].
+
+* I made weekly contributions to Tor Weekly News.
+
+* I relayed frequent help desk issues to the Tor Browser team.
+
+* I resolved these website tickets:
+  #10902: "Our download pages still tell Windows users to extract TBB"
+  #11202: "Andrea Shepard is a Tor developer"
+
+  Other website modifications I made:
+
+  ^ Updated the front page calendar.
+  ^ Added Tor Weekly News to the volunteer page.
+  ^ Removed some outdated FAQ entries.
+  ^ Linked to "Lifecycle of a New Relay" on the tor-relay-debian page.
+
+* I submitted a Tor patch to resolve #9059: "Deprecate ClientOnly config
+option".
+
+* In completely unrelated news, I submitted a patch to the NumPy project
+[1].
+
+
+[0]: https://lists.torproject.org/pipermail/tor-dev/2014-March/006429.html
+[1]: http://mail.scipy.org/pipermail/numpy-discussion/2014-March/069628.html
+
+-- 
+Matt Pagan
+matt at pagan.io
+PGP: 0xE9284418E360583C

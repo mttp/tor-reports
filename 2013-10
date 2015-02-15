@@ -1,0 +1,29 @@
+This month I resolved 218 tickets on the Tor Help Desk. 
+
+I talked about Tor and Tails at a Cryptoparty sponsored by EPIC. 
+
+I met some cool people at the Rally Against Mass Surveillance in
+Washington, DC.
+
+I compiled some web resources for the wiki covering various aspects of
+digital security. 
+(https://trac.torproject.org/projects/tor/wiki/org/sponsors/Otter/Boisterous/WiderWorldOfDigitalSecurity)
+
+I submitted small additions to the website (#9909, #10044).
+
+I made weekly contributions to Tor Weekly News. 
+
+I contributed to the new Tor Stack Exchange page. 
+
+I submitted a final report on Sponsor F year 3 item 17. 
+
+Despite some helpful conversations with Yawning, I was unable to
+positively identify the source of a DNS leak in Mumble in time for the
+Sponsor F year 3 deadline. I plan on continuing to pursue this. I
+investigated alternative methods of using Mumble on Windows. When using
+Torcap, I found that Mumble byapssed Torcap's proxy settings, and so
+did not provide a solution for this issue. When using Tortilla, I found
+that Tortilla introduced so much latency into the system that circuits
+were failing all the time. Even though Tortilla is good at proxy
+obedience, I found it to be unreliable for data delivery and not well
+suited for VoIP.

@@ -1,0 +1,122 @@
+Here's what Matt Pagan did in September 2014
+============================================
+
+- I presented usability reports at four of the Tor Browser development
+  IRC meetings.
+- I clarified website documentation on building Tor from source
+
+(https://lists.torproject.org/pipermail/tor-commits/2014-September/080780.html).
+- I contributed to the 35th, 36th, 38th, & 39th issues of Tor Weekly
+  News.
+- I resolved 173 tickets help desk tickets. I've summarized them below.
+
+[ 6] - What should I enter for my proxy type, address, and port?
+[ 5] - "Tor unexpectedly exited. please restart this application"
+[ 4] - "Can't connect"
+[ 4] - Malware has locked me out of my hard drive.
+[ 4] - "get bridges"
+[ 4] - Unable to save Tor settings, cannot connect to Tor control port
+[ 4] - Empty email
+[ 4] - I'm in China and Tor Browser won't connect.
+[ 4] - How to use Tor Browser with a VPN
+[ 3] - How to use Tor on my college campus
+[ 3] - Windows "Tor is not working in this browser."
+[ 3] - "TorBrowser can't be opened because it is from an unidentified
+       developer" on Mac
+[ 2] - "Doesn't work"
+[ 2] - Tor connects but then the browser never appears. After clicking
+       again, "Firefox is already loaded but not responding".
+[ 3] - How do I use Tor on iOS
+[ 3] - How do I delete Cloudflare from my browser, and why did you put
+       it in?
+[ 2] - Can't get around my fortinet firewall even using bridges.
+[ 2] - Why does a Youtube video I was able to watch yesterday say
+       "Plugin missing" when I try to watch again?
+[ 2] - I think something is wrong with the newest version of Tor Cloud
+       installations.
+[ 2] - [WARN] Proxy Client: unable to connect to xxx.xx.xx.xxx:xxxxx
+       ("TTL expired")
+[ 2] - [WARN] Problem bootstrapping. Stuck at 5%: Connecting to
+       directory server.
+[ 2] - Tor hangs at "loading network status" while bootstrapping.
+[ 2] - Why is StartPage the default search engine?
+[ 2] - How can I reach a website that blocks Tor?
+[ 2] - I get the browser window but I can't however load any pages or
+       search anything - always I get the timed out splash screen.
+[ 1] - gpg: system error while calling external program: Invalid
+       argument
+[ 1] - Can I use Tor to get around a website that limits downloads to
+       one per IP address per day?
+[ 1] - I want to run tor as an exit-relay or bridge... I dont know
+       really the difference.
+[ 1] - When should a person use Tails versus Tor Browser?
+[ 1] - What is the difference between Tor Browser 3 and Tor Browser 4?
+[ 1] - "Unable to save Tor settings. Unacceptable option value: Bridge
+       line did not parse. See logs for details"
+[ 1] - "Unable to save Tor settings Please ensure Tor is running" (Mac)
+[ 1] - How do I use Tor on Android?
+[ 1] - Relay crash on RaspberryPi
+[ 1] - Tor browser immediately exits upon opening
+[ 1] - On Android, orweb won't connect even though Tor is green.
+[ 1] - Told to download Adobe Flash player even though I just installed
+       it
+[ 1] - Tor Browser won't connect when I use it with a third party
+       anonymous http proxy.
+[ 1] - The "How to download and verify Tor Browser on Windows" left me
+       confused. Are there text instructions I can follow?
+[ 1] - How to set up Tor on Lubuntu?
+[ 1] - I'm using Ubuntu and Tor was way easier to install on Windows!
+[ 1] - On Ubuntu, I extracted Tor Browser, but it opens as text.
+[ 1] - Is there a way to save my Tor Browser settings, such as menu
+       items, between updates?
+[ 1] - "A copy of Firefox is already open" on Mac
+[ 1] - Failed to initialize NSS component:Error: couldn't open library
+       libnss3.dylib
+[ 1] - My IT guy did something to my computer and now Tor won't start.
+[ 1] - [WARN] The https proxy sent back an unexpected status code 407
+       ("Proxy Authentication Required"). Closing.
+[ 1] - Should I use a VPN?
+[ 1] - Can you provide tips for staying safe on the web?
+[ 1] - How to uninstall Tor Browser?
+[ 1] - I noticed that someone is modifying the .onion URLs of popular
+       hidden service sites on some of the hidden wiki sites.
+[ 1] - How to set the country of my exit IP addresses.
+[ 1] - Is it normal if I am able to watch Youtube videos even though I
+       have no flash plugin installed?
+[ 1] - How can I stream Flash audio or video using Tor (grooveshark,
+       youtube)
+[ 1] - How to make Tor work with a PAC file from my systems
+       administrator?
+[ 1] - How can I make sure my relays only use bandwidth during non-peak
+       business hours?
+[ 1] - Trying to reach Jacob Appelbaum
+[ 1] - Sophos says they've stopped breaking Tor Browser in the new SAV
+       9.1.5.
+[ 1] - I can run Tor Browser from my laptop but not from my USB drive
+       (Windows).
+[ 1] - I think a hacker modified my Tor Browser download
+[ 1] - How can I make my Tor faster?
+[ 1] - How can I make each of my Tor's SOCKSPorts abide by different
+       ExitNode requirements?
+[ 1] - Tor Browser: "Check online for solution then close the program"
+[ 1] - How do I get to the clipboard that my Tor log gets copied to?
+[ 1] - Why not make all Tor Browser users relays?
+[ 1] - How can I make Tor Browser my default browser?
+[ 1] - Why doesn't Firefox ESR stay where I put it?
+[ 1] - Who can see what when I use Tor?
+[ 1] - [WARN] 2 connections died in state handshaking (TLS) with SSL
+       state SSLv2/v3 read server hello A in HANDSHAKE
+[ 1] - AVG antivirus tells me it has detected a potential threat when I
+       try to open Tor Browser. I clicked "Remove" and now I can't
+       connect.
+[ 1] - Why does Tor use a random IP address each time I connect instead
+       of giving me a fixed IP address like a VPN?
+[ 1] - I had trouble following the instructions at
+       https://www.torproject.org/docs/debian#source
+[ 1] - "This browser is out of date" even after I upgrade.
+[ 1] - How do I enable Javascript?
+[ 1] - Can I torrent with Tor?
+[ 1] - Why doesn't Tor Browser use Firefox 32 already?
+[ 1] - Can I use Firefox add-ons with Tor?
+[ 1] - Thank you for Tor Browser.
+

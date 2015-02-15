@@ -1,0 +1,151 @@
+ince the Priate Browser has only been released for Windows so far, some
+people who don't use Windows have been wondering what's in it. I put
+a copy of Windows XP on a virtual machine to examine the contents of
+the Pirate Browser package. 
+
+I used the microsoft utility FCIV to compare the md5 and sha1 sums of
+the contents of the App folder for the Pirate Browser 0.6b and the Tor
+Browser Bundle 2.3.25-12(en-US). Here are my results:
+
+Tor Browser\App\libeay32.dll
+PirateBrowser 0.6b\App\libeay32.dll
+----
+match
+
+Tor Browser\App\libgcc_s_dw2-1.dll
+PirateBrowser 0.6b\App\libgcc_s_dw2-1.dll
+----
+match
+
+Tor Browser\App\libssp-0.dll
+PirateBrowser 0.6b\App\libssp-0.dll
+----
+match
+
+Tor Browser\App\mingwm10.dll
+PirateBrowser 0.6b\App\mingwm10.dll
+----
+match
+
+Tor Browser\App\QtCore4.dll
+PirateBrowser 0.6b\App\QtCore4.dll
+----
+match
+
+Tor Browser\App\QtGui4.dll
+PirateBrowser 0.6b\App\QtGUi4.dll
+----
+match
+
+Tor Browser\App\QtNetwork4.dll
+PirateBrowser 0.6b\App\QtNetwork4.dll
+----
+match
+
+Tor Browser\App\QtXml4.dll
+PirateBrowser 0.6b\App\QtXml4.dll
+----
+match
+
+Tor Browser\App\ssleay32.dll
+PirateBrowser 0.6b\App\ssleay32.dll
+----
+match
+
+Tor Browser\App\tor.exe
+PirateBrowser 0.6b\App\tor.exe
+----
+match
+
+Tor Browser\App\vidalia.exe
+PirateBrowser 0.6b\App\vidalia.exe
+----
+match
+
+From this I conclude that the Pirate Browser includes unmodified
+versions of Tor 0.2.3.25 and Vidalia 0.2.20
+
+I also compared the md5 and sha1 sums of 'Start Tor Browser.exe' and
+'Start PirateBrowser.exe'. They do not match. 
+
+The Pirate Browser does not include the Docs folder that Tor Browser
+Bundle has.
+
+The torrc file looks like
+this: 
+"""Begin torrc file"""
+
+# If non-zero, try to write to disk less frequently than we would
+otherwise. AvoidDiskWrites 1
+# Store working data, state, keys, and caches here.
+DataDirectory .\Data\Tor
+GeoIPFile .\Data\Tor\geoip
+# Where to send logging mesages. Format is minSeverity[-maxSeverity]
+# (stderr|stdout|syslog|file FILENAME).
+Log notice stdout
+# Bind to this address to listen to connections from SOCKS-speaking
+# applications.
+SocksListenAddress 127.0.0.1
+SocksPort 9150
+ControlPort 9151
+
+# Configured for speed
+ExcludeSingleHopRelays 0
+EnforceDistinctSubnets 0
+AllowSingleHopCircuits 1
+
+# Exclude countries that might have blocks
+ExcludeExitNodes {dk},{ie},{gb},{nl},{be},{it},{cn},{ir},{fi},{no}
+
+"""End of torrc file"""
+
+The Pirate Browser is based off Firefox 23.0
+----
+Extensions:
+  FoxyProxy Standard 4.2.2
+
+Plugins:
+  Google Update 1.3.21.153
+  Microsoft(R) DRM 9.0.0.4503
+  Microsoft(R) DRM 9.0.0.4503
+  Windows Media Player Plug-in Dynamic Link Library
+
+
+For FoxyProxy, the mode is set to:
+  "Use proxies based on their pre-defined patterns and priorities"
+  The URL for the pattern used is:
+    http://piratebrowser.com/piratebrowser_patterns.json
+  According to this file, Tor is enabled for URLs that match the
+following patterns: 
+    *thepiratebay*
+    *eztv.it*
+    *kickass.to*
+    *torrentz.eu*
+    *movie4k.to*
+    *fenopy.se*
+    *1337x.org*
+    *bitsnoop.com*
+    *h33t.com*
+    *isohunt.com*
+    *monova.org*
+    *torrentcrazy.com*
+    *.onion
+
+The PirateBrowser also has these sites automatically bookmarked in its
+browser bar:
+
+http://thepiratebay.sx/
+http://uj3wazyk5u4hnvtk.onion/
+https://proxy-ez.tx/
+http://omcwtrnyrzlwzv22.onion/
+http://1337x.org/
+http://fenopy.se/
+http://h33t.com/
+http://isohunt.com/
+http://kickass.to/
+http://bitsnoop.com/
+http://torrentcrazy.com/
+http://movie4k.to/
+http://monova.org/
+http://torrentz.eu/
+

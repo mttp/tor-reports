@@ -1,0 +1,44 @@
+In May I resolved 213 tickets on RT. I rejected 27 tickets.
+
+I worked with Phoul, dcf1, and farshid to create a document explaining
+how to set up Flashproxy. It is now on the wiki.
+
+I started running an unpublished mirror for users who cannot access the
+publicly available torproject.org mirrors.
+
+Below are the concerns I helped users with.
+Some users asked more than one question.
+
+29: GetTor doesn't work (bug #8888)
+24: Updating Tor Browser Bundle
+19: User needs Tor Browser Bundle
+19: Duplicate ticket
+10: User needs Pluggable Transports Browser or obfs3 bridges
+10: User needs the Short User Manual
+9 : User needs Flashproxy
+8 : Ticket escalated
+7 : User needs help with GPG
+6 : Users asks about some specific hidden service site
+6 : Configuring a relay
+5 : Does the Tor Browser remember my data?
+5 : User was asked to open a bug ticket
+5 : User needs bridges
+4 : User reports abuse
+4 : Tor with VPN
+4 : Tor on Android
+4 : Tor Browser on iOS
+3 : Tor Browser on Mac OS 10.5 or below
+3 : Setting up an anonymous email account
+3 : Are Firefox add-ons safe?
+3 : User is saving Tor to the wrong directory
+3 : Firewall is blocking Tor
+3 : Help with ExitNodes (bug #8934)
+39: Other miscellaneous issues
+
+
+>From a Tor user:
+ > guys thank u for your services , i fell freedom,
+ > noting is more than freedom.
+ > thank u and god bless u.
+ >  ----- from iran tehran
+ (name redacted)

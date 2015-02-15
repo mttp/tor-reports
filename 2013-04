@@ -1,0 +1,49 @@
+This month I submitted two bug reports:
+https://trac.torproject.org/projects/tor/ticket/8804
+https://trac.torproject.org/projects/tor/ticket/8726
+
+
+I started running a free tier AWS TorCloud image
+
+I resolved 136 tickets in RT.
+These are the questions users asked (some users asked more than question):
+
+
+29: Tor doesn't work.
+15: What is tor?/How does tor work?
+9: Duplicate help request/empty email/no response
+9: User needs Pluggable Transports Browser/obfs bridges.
+8: User needs gettor.
+7: I need help accessing a hidden service site.
+7: Is Tor supported on my operating system?
+7: I have a suggestion for the Tor Project (see below for the
+suggestions).
+7: I am writing a program that uses tor.
+5: I run a relay/Torcloud question
+5: Tor on android
+5: Specific configuration question
+5: Is this a bug?
+5: I want to install a Firefox add-on.
+4: User needs Torsocks.
+3: I want to use another browser with tor.
+3: Is downloading safe with tor?
+2: Can you trace an abusive tor user?
+2: I want to watch videos with tor.
+2: Positive feedback
+2: Help adding bridges
+1: User needs Tails.
+1: A website banned tor.
+1: VoIP over Tor
+1: Flashproxy help
+1: GPG help
+1: Tor in the news
+1: GSoC proposal
+
+These were the suggestions we received:
+- - Improve Torcheck homepage
+- - Add Keepass password manager to TBB
+- - Tor lets someone do a guest blog promoting their proprietary
+security software
+- - Add a tor forum
+- - Sell stickers
+- - Tor adds a banner on their homepage about US gun control laws

@@ -1,0 +1,145 @@
+Matt P. in November 2014
+------------------------
+
+In November, I resolved 150 questions at the help desk.
+
+I also spent some time reorienting after taking the month of
+October off.
+
+I spent some time talking with others about what would be
+required for the Tor Project to support a Tor on iOS solution.
+
+I contributed to the 70th, 71st, and 73rd issues of Tor Weekly News.
+
+Here are the tickets I resolved this month, sorted by frequency.
+
+[10] - Something Went Wrong! Tor is not working in this browser.
+[07] - "Doesn't work".
+[05] - On Windows, no Window opens after Tor Browser 4 is started.
+[05] - On Mac, no Window opens after Tor Browser is started
+[05] - Firefox is already running.
+[04] - [WARN] Problem bootstrapping. Stuck at 10%: Finishing handshake
+       with directory server.
+[04] - Request for bridges
+[04] - I'm in China and my obfs3 bridges no longer work.
+[04] - Could not connect to Tor control port.
+[03] - [WARN] The connection to the HTTP proxy server at XXX.XX.XX.X:53
+       just failed. Make sure that the proxy server is up and running.
+[03] - "Vidalia was unable to start Tor."
+[03] - How can I help out with Tor?
+[03] - Empty email
+[02] - [WARN] Our clock is X days, X hours, X minutes behind the time
+       published in the consensus network status document. Tor needs an
+       accurate clock to work correctly. Please check your time and
+       date settings!
+[02] - "Tor unexpectedly exited. This might be due to a bug in Tor
+       itself, another program on your system, or faulty hardware."
+[02] - Tor Browser won't open while using an OpenVPN-based VPN.
+[02] - Tor Browser is asking me what is my proxy type and port number.
+[02] - Someone is using Tor to attack my website or business.
+[02] - [NOTICE] Bootstrapped 25%: Loading networkstatus consensus
+[02] - I downloaded from your website but don't see it.
+[02] - How can I retrieve the bookmarks I lost when I upgrade Tor
+       Browser.
+[02] - Given the hidden services takedown, is Tor broken and putting
+       users at risk?
+[02] - "Firefox is configured to use a proxy server that can’t be
+       found." on Mac.
+[02] - Can't use cypherpunks account
+[02] - After a restart, Tor Browser still trusts/distrusts a root CA I
+       deleted/added in Preferences.
+[01] - Why is Torbirdy in Arabic for me?
+[01] - Why is StartPage the default search engine when it never works?
+[01] - Why can't I use the updater from torbutton in Tor Browser 4.0?
+[01] - Which Tor Browser do I need for Android?
+[01] - What's the proper way to use Tor Browser?
+[01] - What protocol will Tor traffic be using after it leaves the Tor
+       network?
+[01] - What ports does Tor use?
+[01] - What other tools besides Orbot can I use to secure my mobile
+       communications
+[01] - What is Linux or Unix?
+[01] - What flags should I use to build OpenSSL so that Tor doesn't
+       complain?
+[01] - What does the alert with an image of a painter's palette mean?
+[01] - What are the best settings to use for Tor Browser?
+[01] - What are the best email providers to use with Tor?
+[01] - [WARN] The https proxy sent back an unexpected status code 407
+       ("Unauthorized"). Closing.
+[01] - [Warning] Error replacing "C:/Program Files (x86)/Tor
+       Browser/Data/Tor\cached-microdescs": Permission denied
+[01] - [WARN] Certificate already expired. Either their clock is set
+       wrong, or your clock is wrong.
+[01] - Unacceptable option value: HTTPSProxy failed to parse or resolve.
+[01] - Tor weather didn't recognize my relay's fingerprint.
+[01] - Tor hangs on certain websites.
+[01] - Torbutton: Unexpected error on new identity: [Exception...
+       "Component returned failure code: 0x80520015
+       (NS_ERROR_FILE_ACCESS_DENIED)[nsIPrefService.savePrefFile]"
+       nsresult: "0x80520015(NS_ERROR_FILE_ACCESS_DENIED)" location:
+       "JS frame ::chrome://torbutton/content torbutton.js ::
+       torbutton_do_new_identity :: line 1727" data: no]
+[01] - Tor Browser crashes when I try to use Flash.
+[01] - The verification key listed at https://trac.torproject.org
+       /projects/tor/wiki/torbirdy#VerifyingtheXPI isn't the same as
+       the key ID seen from GPG.
+[01] - The Tor Browser home page doesn't say anything about Firefox. Is
+       it supposed to?
+[01] - Surprised that Tor Browser works without arm installed.
+[01] - Should I use Tor Browser or Tails?
+[01] - Please update your instructions for setting up relay on Mac.
+[01] - Please make the Windows bundles for the latest version of Tor
+       available for download.
+[01] - Outdated instructions on using Tor Cloud.
+[01] - [NOTICE] Pluggable transport proxy (flashproxy exec
+       Tor\PluggableTransports\flashproxy-client --register :0 :9000)
+       does not provide any needed transports and will not be launched.
+[01] - Network is unreachable [WSAENETUNREACH ]
+[01] - My symlink to start-tor-browser on Debian don't work.
+[01] - My antivirus said the Vidalia Relay Bundle was malware.
+[01] - I think your browser broke my proxy settings and now I can't use
+       any browser.
+[01] - Is wget safe to use with torsocks 2.0?
+[01] - Is Tor Browser a relay by default?
+[01] - Is there a way for me to upgrade my Tor Browser without having
+       to redo all my settings and bookmarks?
+[01] - Is there a Tor tutorial to help get me started?
+[01] - Is my connection proxied or censored?
+[01] - Is it safe to watch YouTube videos with HTML5?
+[01] - Is it safe to use Tor Browser and Internet Explorer at the same
+       time?
+[01] - I'm behind a cyberoam firewall
+[01] - How to use Tor Browser on a Chromebook.
+[01] - How to set the homepage in Tor Browser.
+[01] - How to make Tor Browser use custom Directory Authorities.
+[01] - How do I upgrade Vidalia?
+[01] - How do I read and send email with Tor.
+[01] - How do I get the lock icon for HTTPS to come up on a website I
+       want to use.
+[01] - How do I close open ports on my computer to stay safe while
+       using Tor Browser?
+[01] - How can Tor be anonymous if UK law requires ISPs to record IP
+       addresses?
+[01] - How can I use Vidalia with Tor Browser?
+[01] - How can I use Tor Browser when my local network bans all
+       programs named Firefox.
+[01] - How can I use my own custom Firefox instead of Tor Browser?
+[01] - How can I see my tabs and browsing history from my previous
+       browsing session?
+[01] - How can I run bittorrent over Tor?
+[01] - How can I route an application's traffic through Tor.
+[01] - As an administrator, how can I distinguish Tor traffic from
+       other traffic on a network?
+[01] - Having trouble setting up a bridge
+[01] - Given the hidden services takedown I won't use Tor anymore
+       because it's obvious Tor is backdoored.
+[01] - Firefox menus are in English instead of German.
+[01] - Does Tor on Android block MSISDN?
+[01] - Can't run Tor Browser on Windows XP with 1MB of RAM
+[01] - Can't get Tor Browser to work with Mac Voiceover for visually
+       impaired accessibility.
+[01] - Can't access the Tor Project website.
+[01] - Can I use Tor Browser to circumvent my college's firewall?
+[01] - Can I use Tor Browser to automate repeated search engine queries?
+[01] - Can I run a relay on my Windows laptop?
+[01] - Am I protected from the NSA when using Tor Browser?

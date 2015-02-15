@@ -1,0 +1,237 @@
+What Matt did August 2014
+=========================
+
+* I built Tor Expert Bundles for tor 0.2.5.6. Afterwards, I learned
+  that the bundles need to be built deterministically to be released,
+  so I did not try to get the bundles I made hosted on the website.
+
+* I wrote a patch for #8376 ("Tor expert bundle requires "Run as
+  Administrator" to install on Win 7 (and Win 8?)")
+
+* I wrote a patch for Tor in #12830 ("Links in Tor's README are
+  outdated").
+
+* I contributed to the 57th, 59th, and 60th editions of Tor Weekly News.
+
+* I reported on Help Desk issues during each weekly Tor Browser meetings.
+
+* I agreed to start responding to requests for Tor weather T shirts.
+
+* Below, I've categorized every single one of the 220 help desk tickets
+  I resolved in August.
+
+-------------------------
+
+[17] - empty email
+[13] - "Could not connect"
+[ 9] - Tor no longer works; I'm in Iran.
+[ 8] - Request for bridges
+[ 8] - I'm in China. My bridges don't work.
+[ 7] - A copy of FireFox is already open *OR* Firefox is already
+       running, but is not responding
+[ 5] - "Tor unexpectedlly exited"
+[ 5] - My university blocks connections to Tor
+[ 5] - "Does not work"
+[ 4] - [WARN] Proxy Client: unable to connect to xx.xxx.xxx.x:80
+       ("general SOCKS server failure") [NOTICE] Pluggable transport
+       proxy (fte exec Tor\PluggableTransports\fteproxy --managed) does
+       not provide any needed transports and will not be launched.
+       [NOTICE] Pluggable transport proxy (flashproxy exec
+       Tor\PluggableTransports\flashproxy-client --register :0 :9000)
+       does not provide any needed transports and will not be launched.
+       [WARN] Proxy Client: unable to connect to xxx.xxx.xx.xxx:45496
+       ("general SOCKS server failure")
+[ 4] - [WARN] Problem bootstrapping. Stuck at 45%: Asking for relay
+       descriptors. (Connection timed out [WSAETIMEDOUT ]; TIMEOUT;
+       count 23; recommendation warn) [WARN] 22 connections have
+       failed: [WARN] 21 connections died in state connect()ing with
+       SSL state (No SSL object) [WARN] 1 connections died in state
+       handshaking (TLS) with SSL state SSLv2/v3 read server hello A
+       in HANDSHAKE
+[ 3] - What can I do to help Tor?
+[ 3] - "The site could be temporarily unavailable or too busy. Try
+       again in a few moments. If you are unable to load any pages,
+       check your computer's network connection." in Mac Tor Browser.
+[ 3] - Something Went Wrong! Tor is not working in this browser.
+[ 3] - How do I use Tor to circumvent Cyberoam firewall?
+[ 2] - Windows Defender blocks Tor
+[ 2] - Will using an email client while using Tor Browser deanonymize
+       me?
+[ 2] - Why does the browser at certain times hang for 4 to 5 minutes,
+       and sometimes for an indefinite time? I use hotspot shield.
+[ 2] - Why doesn't the relay I set up/the exit node I'm using show up
+       in Atlas or Globe?
+[ 2] - [WARN] Problem bootstrapping. Stuck at 5%: Connecting to
+       directory server. (Network is unreachable; NOROUTE; count 3;
+       recommendation warn)
+[ 2] - [WARN] Problem bootstrapping. Stuck at 50%: Loading relay
+       descriptors. (Network is unreachable [WSAENETUNREACH ]; NOROUTE;
+       count 7; recommendation warn)
+[ 2] - Tor hangs when starting Tor Browser (unspecified)
+[ 2] - Tor hangs at Loading Authority certificates.
+[ 2] - Tor gets stuck loading, saying my clock is incorrect.
+[ 2] - Please email me Tor Browser
+[ 2] - I installed Tor Browser. Where is it?
+[ 2] - I have a machine that is not running Tor and my packet sniffer
+       says it is connecting to Tor non-exit relays.
+[ 2] - How to watch videos with UK-based location restrictions.
+[ 2] - How to verify the key fingerprint using GPG?
+[ 2] - How to turn my router into a transparent Tor proxy.
+[ 2] - Establishing a circuit failed.
+[ 2] - Can I use Tor to stream Netflix/Hulu?
+[ 1] - 'Your Tor Software is Out-of-date - You are currently running
+       version "0.2.4.22 (git-2ee56e4c2c841a45)" of the Tor software,
+       which may no longer work with the current Tor network.'
+[ 1] - Would you agree or disagree that the safest way to set up tor
+       and secure my web browsing is by setting up a private bridge on
+       a non-VPS server and only connecting to Tor through my private
+       bridge?
+[ 1] - Windows 8.1 Maintenance Center's Reliability history says "Tor
+       Browse is not working"
+[ 1] - Why does my connection appear to be coming from all these
+       different hostnames?
+[ 1] - Why do Amazon cloud bridges default to US location instead of a
+       different country?
+[ 1] - Why can't I see the network connections in my Vidalia Bridge
+       Bundle?
+[ 1] - Why am I receiving spam at the email I put in my relay's
+       ContactInfo field?
+[ 1] - Who is to say that when I log into some website that I am still
+       being tracked because the government has already figured you
+       folks out and created a way to track people and you not know it?
+[ 1] - Where can I get more information about Tor?
+[ 1] - When using Tor Browser, how to keep my IP address from changing
+       so quickly?
+[ 1] - When starting Tor Browser: ‘WerFault.exe - Application
+       Error’ ‘Click on OK to terminate the program’
+[ 1] - when I have downloaded the tor bundle and I go to my file's to
+       open it says I havent got the right application
+[ 1] - whenever I try to open "hubpages.com" it won't load.
+[ 1] - whenever I connect to HMA VPN, Tor will not connect. When I
+       disconnect from HMA, it works.
+[ 1] - What is the status of the torouter project?
+[ 1] - What can an adversary see when I connect to Tor?
+[ 1] - [WARN] The https proxy refused to allow connection to
+       xx.xxx.xxx.xxx (status code 403, "Forbidden"). Closing.
+[ 1] - [warn] eventdns: All nameservers have failed [notice] eventdns:
+       Nameserver 127.0.1.1:53 is back up
+[ 1] - Vidalia does not connect to Tor.
+[ 1] - After using Tor Browser, I fear that my web accounts are no
+       longer secure.
+[ 1] - "Update" function in ghostery works in Firefox but not Tor
+       Browser.
+[ 1] - "Unable to save settings. Make sure that the Tor is running"
+[ 1] - Tor starts but browser components aren't launching.
+[ 1] - Tor Project should montior the Tor relays to make sure they are
+       not malicious.
+[ 1] - Tor failed to establish a Tor network connection. Connecting to
+       a relay directory failed (missing pluggable transport).
+[ 1] - Torbutton: Error clearing NoScript Temporary Permissions:
+       TypeError: Components.classes['@maone.net/noscript-service;1']
+       is undefined
+[ 1] - Tor allows a user to login to DISQUS but nothing seems to be
+       passed on to the site.
+[ 1] - Toolbar and bookmarks in Tor Browser 3.6.3 are still in English
+       even though I downloaded the German version.
+[ 1] - The Tor Project should make a program that disguises the fact
+       that you are using Tor.
+[ 1] - Orbot shows that it is connected to Tor network, while the log
+       shows that Tor is only 20-30% done.
+[ 1] - Should I use Tor or a VPN?
+[ 1] - Should I donate to the Tor Project or run a relay?
+[ 1] - Request for Tor to use its reputation for expertise in science
+       fiction blogging to promote a new comic book.
+[ 1] - One of the Tor relays I operate has "Fingerprint is marked
+       rejected" in the log.
+[ 1] - Is the Tor Project aware that Russia has offered 100000 USD to
+       anyone who can deanonymize Tor users?
+[ 1] - [NOTICE] I learned some more directory information, but not
+       enough to build a circuit: We have no recent usable consensus.
+[ 1] - [NOTICE] Bridge at '0.0.1.0:1' isn't reachable by our firewall
+       policy. Skipping. [NOTICE] Bridge at '0.0.1.0:4' isn't reachable
+       by our firewall policy. Skipping. [NOTICE] Bridge at '0.0.1.0:5'
+       isn't reachable by our firewall policy. Skipping. [NOTICE]
+       Bridge at '0.0.1.0:2' isn't reachable by our firewall policy.
+       Skipping. [NOTICE] Bridge at '0.0.1.0:3' isn't reachable by our
+       firewall policy. Skipping.
+[ 1] - Neither Tor + Chrome nor Tor + Firefox is able to connect.
+[ 1] - Doesn't Tor by default let everybody know that you are using
+       Tor? Isn't that a bit self-defeating?
+[ 1] - LinkedIn doesn't work with Tor Browser
+[ 1] - Why isn't my relay being used more?
+[ 1] - After reading http://www.wired.com/2014/08/operation_torpedo/,
+       I am worried that using Tor will bring me to the attention of
+       the FBI. Is there a backdoor in Tor that lets the FBI in?
+[ 1] - Many sites I go to require Javascript. If I have understood the
+       situation, this is contrary to your advice. I have to use an
+       insecure browser session which seems counterproductive.
+[ 1] - Why is Javascript enabled?
+[ 1] - Is it possible to use Javascript with Tor Browser?
+[ 1] - Is there a correct way to briefly shut down a relay for restart
+       to upgrade server files?
+[ 1] - After disabling Javascript, I opened the page
+       www.stayinvisible.com,
+       which shows "NOTE: You are very visible with disabled Javascript
+       nowadays"; can that website detect my real IP address with
+       disabled JS?
+[ 1] - Is it safe to use Word and Powerpoint when using Tor Browser
+       since I know they automatically update?
+[ 1] - Is it possible to create anonymous blogs through TOR?
+[ 1] - Is it advantageous or even possible to operate one relay with
+       more than one ORPort?
+[ 1] - I purchased the port forward config program but I still get the
+       warning that my dir port and OR port are not able to be seen.
+[ 1] - Can Tor Browser can be used safely with other programs open or
+       running?
+[ 1] - I installed Tor from Ubuntu's repositories before I saw your
+       warning to use the Tor Project's repository. Now how do I get
+       started browsing with Tor?
+[ 1] - I have too many copies of Tor and can't delete them. "File is
+       open".
+[ 1] - I am traveling and was a victim or theft and assault. Can the
+       Tor Project help me?
+[ 1] - My browser freezes up and I have to restart when attempting to
+       restore previous bookmarks. Versions before 3.6.3 I had no
+       problems with this.
+[ 1] - I get an error message using Tor Browser in the admin account of
+       Macbook Pro.
+[ 1] - I can't find my hidden service hostname at
+       /var/lib/tor/hidden_service/hostname.
+[ 1] - How to use Tor without changing my inaccurate clock/timezone.
+[ 1] - How to use Tor with a proxy.
+[ 1] - How to use Tor on SymbianOS.
+[ 1] - How to use Tor Browser in China.
+[ 1] - How to use Polipo with Vidalia.
+[ 1] - How to uninstall Tor Browser.
+[ 1] - How to set up a relay on Kubuntu.
+[ 1] - How to set the home page in Tor Browser.
+[ 1] - How to prevent portscanning from taking place on my exit relay.
+[ 1] - How to open ports in my home firewall.
+[ 1] - How to install Tor Browser (on a Mac).
+[ 1] - How to install Tor Browser (general).
+[ 1] - How to get Tor on Android.
+[ 1] - How to get a public key from keyserver using GPG.
+[ 1] - How to copy Tor log to clipboard.
+[ 1] - How is Tor addressing the problems the CERT researchers were
+       talking about?
+[ 1] - How I can I get around Afghanistan's censorship of Tor?
+[ 1] - How does Tor Browser handle cookies?
+[ 1] - How can I get the latest version of Tor Browser? The version I
+       have says it's from 1999.
+[ 1] - Error window: Tor connection timed out
+[ 1] - Does Tor secure the filenames and file contents being downloaded
+       and uploaded from interception by packet sniffers?
+[ 1] - {Orbot} Control Port config file does not yet exist (waiting for
+       tor): /data/data/org.torproject.android/app_bin/control.txt
+       waiting...
+[ 1] - Connections to indianvisaonline.gov times out when using Tor.
+[ 1] - Can you help me set up my torrc to run a relay?
+[ 1] - Can you direct me to any Tor Hidden Service shopping sites?
+[ 1] - Can I use Tor to send an anonymous email that cannot be traced
+       back to me?
+[ 1] - Can I use Tor Browser with Microsoft Silverlight?
+[ 1] - Can I run my imacros script in Tor Browser?
+[ 1] - Can I make Tor Browser my default browser?
+[ 1] - After having used Tor Browser for a while, starting Tor Browser
+       opens the browser without starting Tor, and I can't visit any
+       website.

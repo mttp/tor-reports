@@ -1,0 +1,29 @@
+July 2014 Status Report
+=======================
+
+## What I did in July ##
+
+* Attended HOPE in New York City.
+* Resolved 222 Help desk tickets.
+* Summarized help desk issues for the 53rd, 54th, 55th, and 56th issues
+  of Tor Weekly News.
+* Relayed help desk issues to the browser development team during IRC
+  meetings.
+* Wrote one patch for Tor (#1038).
+* Wrote one patch for BridgeDB (#12664).
+
+## Website work ##
+
+* Updated the front page calendar 7 times.
+* Removed dead links to the alpha Vidalia bundles.
+* Replaced the words "Tor Browser Bundle" with "Tor Browser" on the
+  download, download-easy, and Tor Browser project pages (#11193).
+* Added gk's key to the signers page (#12575).
+* Added boklm's key to the signers page (#11473).
+* Modified 2 FAQs:
+    - "Can I run a Tor relay from my virtual server account?"
+    - "You should let people choose their path length."
+* Added some instructions on running the Tor Windows installer (#12617).
+* Updated the URL for Homebrew on the Mac installer page (#10141).
+* Replaced outdated information on the torbrowser-details page with
+  links to git changelogs (#12467).

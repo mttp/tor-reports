@@ -1,0 +1,24 @@
+Status Report for June 2014
+===========================
+
+Here's what I did for Tor in June 2014:
+
+* Resolved 220 help desk tickets.
+* Incorporated the help desk's new Pups software into my support
+workflow (although no users have accepted any of my chat invitations yet).
+* Researched a solution for Webroot SecureAnywhere AV users wanting to
+run Tor Browser. I updated the FAQ page describing what I found [0].
+* Changed "Tor Browser Bundle" to "Tor Browser" on the Tor Browser's
+project page [1]. This included creating a new Tor Browser logo without
+the word "bundle" in it [2].
+* Differentiated between Tor and Tor Browser packages on the
+verifying-signatures page.
+* Updated the website calendar [3].
+* Provided weekly feedback to Tor Browser developers on frequently
+encountered help desk issues.
+* Contributed to the 49th, 50th, and 52nd editions of Tor Weekly News.
+
+[0]: https://bugs.torproject.org/10789
+[1]: https://bugs.torproject.org/11193
+[2]: https://www.torproject.org/images/tb-lg.png
+[3]: https://bugs.torproject.org/12423

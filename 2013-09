@@ -1,0 +1,32 @@
+I did the following in September:
+
+
+I resolved 138 support tickets. 
+
+I attended 2 Sponsor F meetings in #tor-dev. 
+
+I submitted 2 small patches for https-everywhere[0]. 
+
+I found myself in Washington, D.C. talking to people from several
+different activist communities about Tor, Tails, GPG, Orbot, and other
+privacy-enhancing technologies. From this experience I gained new
+perspective on some of the ways activists in the United States think
+about their online privacy, and what threats they face.
+
+I went to PhreakNic[1]. I informally addressed some common
+misconceptions people had about Tor and answered some questions about
+recent Tor-related news. 
+
+I wrote summaries of common help desk questions for Tor Weekly News
+issues #10, #11, #12, #13 and #14. 
+
+I read some QT documentation and other resources in order to
+investigate a DNS leak in Mumble[2].
+
+I began working with Sherief on a Firefox extension to do file
+verification[3]. 
+
+[0]: https://trac.torproject.org/projects/tor/ticket/9643
+[1]: http://phreaknic.info/
+[2]: http://sourceforge.net/p/mumble/bugs/1033/
+[3]: https://trac.torproject.org/projects/tor/ticket/9864

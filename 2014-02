@@ -1,0 +1,31 @@
+Things I did in February:
+
+* I resolved 380 help desk tickets. A breakdown of some support topics
+  can be found in the help desk report[0]. The support team is working
+  on making support topic breakdowns more detailed. 
+* I rewrote the "Configuring a Tor Relay" page with updated
+  information [1].
+* I reported a Tor trademark violation in the Windows Phone store.
+  Thanks to Runa and Andrew, the app is now listed on Microsoft's
+  website as "no longer published"[2].
+* I attended the Tor developers' meeting in Reykjavik, Iceland. Where I 
+    ** agreed to act as a first point of contact for first-time
+       volunteers who want guidance on how to contribute to the Tor
+       Project. 
+    ** agreed to act as the support-team liaison for the browser
+       developer team so that frequently-encountered help desk issues
+       get brought to their attention. 
+    ** wrote a patch for Tor that addressed an
+       occassionally-encountered support issue, closing ticket #965
+       ("Redo DNS tests when exit policy changes from reject *; avoid
+       when policy changes to reject * ").
+
+Additionally, 
+* I made weekly contributions to Tor Weekly News. 
+* I added six FAQ entries to the website and closed ticket #2133
+  ("Migrate relevant wiki faq entries to docs/faq.wml on the website").
+
+[0]:
+https://lists.torproject.org/pipermail/tor-reports/2014-March/000469.html
+[1]: https://www.torproject.org/docs/tor-doc-relay
+[2]: https://trac.torproject.org/projects/tor/ticket/10810
